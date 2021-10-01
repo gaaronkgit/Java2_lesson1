@@ -16,7 +16,6 @@ public class Course
             for (int b = 0; b < barriers.length; b++)
             {
                 CourseOfMember(team.members[tm],true);
-
             }
         }
     }
